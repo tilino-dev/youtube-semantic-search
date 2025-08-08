@@ -1,0 +1,5 @@
+[
+  {"id": "v1", "text": "In this video we show how to build a basic data pipeline with Python and Airflow"},
+  {"id": "v2", "text": "We explore how to transcribe audio using Whisper and index transcripts for semantic search"},
+  {"id": "v3", "text": "This tutorial covers embeddings with sentence-transformers and nearest neighbor search"}
+]
